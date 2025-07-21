@@ -1,7 +1,7 @@
 import img from "../assets/image.png";
 // import Signin from "../components/auth/Signin";
 import Register from "../components/auth/Register";
-export default function App() {
+export default function Auth() {
   return (
     // bg-[#1E1E1E]
     <main className=" min-h-screen flex flex-col md:flex-row gap-4 p-4">
